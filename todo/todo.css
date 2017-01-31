@@ -1,0 +1,38 @@
+.container {
+  padding: 20px;
+}
+
+h1, h4 {
+  text-align: center;
+  margin: 30px;
+}
+
+
+h5 {
+  margin: 20px;
+  color: #777777;
+}
+
+.states {
+  height: 150px;
+  text-align: center;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+  margin-top: 15px;
+  height: 80px;
+}
+
+a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+    border-color: #BF0A30;
+    text-decoration: none;
+}
+
+#us-flag {
+  height: 150px;
+}
+
+.header-image {
+  text-align: center;
+  margin: 50px
+}

@@ -1,0 +1,11 @@
+body {
+  background-image: url("images/poker_table_top.jpg");
+  background-size: 996px;
+  background-repeat: repeat;
+}
+
+#my-cards {
+  position:absolute;
+  left: 15%;
+  top: 35%;
+}
